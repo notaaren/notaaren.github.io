@@ -4,13 +4,14 @@
     min-width: 1000px;
     min-height: 1000px;
     background: lavender;
-    margin: 50px;
+    margin: 90px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0px 35p 55px rgba(0,0,0,0.2);
+    padding: ;
  }
  .container .left{
     position: relative;
     background: skyblue;
-    padding: 10px;
+    padding: 80px;
  }
